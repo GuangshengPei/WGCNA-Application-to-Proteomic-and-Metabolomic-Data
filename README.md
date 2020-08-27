@@ -1,4 +1,4 @@
-# WGCNA Application to Proteomics and Metabolomics Data analysis
+# WGCNA Application to Proteomics and Metabolomics Data
 Example code and raw data.
 
 ## Citation
