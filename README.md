@@ -21,5 +21,4 @@ and its tutorials for applying the WGCNA approach in analyzing proteomic and
 metabolomic datasets.
 
 ## Citation
-Pei G., Chen L., Zhang W.. WGCNA Application to Proteomic and Metabolomic Data Analysis. Methods Enzymol. 2017, 585:135-158.   
-https://pubmed.ncbi.nlm.nih.gov/28109426/
+Pei G., Chen L., Zhang W.. WGCNA Application to Proteomic and Metabolomic Data Analysis. Methods Enzymol. 2017, 585:135-158. https://pubmed.ncbi.nlm.nih.gov/28109426/
